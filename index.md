@@ -14,7 +14,7 @@ Audio in the same row share identical first 4 bars prompt. ***No grooving*** and
 Scenario (a) Target guitar seen, non-target guitar unseen
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
-| ag+ag |         |               |                    |                      |                     |
+| ag+ag |<audio src="result/scenario_a/(a)_ag+ag_rachel_mix.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_gt_0.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_soft.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_binary.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_blind.wav" controls="" preload=""></audio>|
 | eg+eg | Text    | Text          | Text               |                      |                     |
 
 Scenario (b) Target guitar unseen, non-target guitar seen
