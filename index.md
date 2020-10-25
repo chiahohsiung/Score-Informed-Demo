@@ -11,25 +11,28 @@ Audio in the same row share identical first 4 bars prompt. ***No grooving*** and
 |4.|<audio src="result/real data/3.wav" controls="" preload=""></audio>|<audio src="result/no grooving/3.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/3.wav" controls="" preload=""></audio>|
 |5.|<audio src="result/real data/4.wav" controls="" preload=""></audio>|<audio src="result/no grooving/4.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/4.wav" controls="" preload=""></audio>|
 
-Scenario (a) Target guitar seen, non-target guitar unseen
+Scenario (a) Target guitar seen, non-target guitar unseen.
+
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
 | ag+ag |<audio src="result/scenario_a/(a)_ag+ag_rachel_mix.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_gt_0.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_soft.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_binary.wav" controls="" preload=""></audio>|<audio src="result/scenario_a/(a)_ag+ag_rachel_blind.wav" controls="" preload=""></audio>|
-| eg+eg | Text    | Text          | Text               |                      |                     |
 
 Scenario (b) Target guitar unseen, non-target guitar seen
+
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
 | ag+ag |         |               |                    |                      |                     |
 | eg+eg | Text    | Text          | Text               |                      |                     |
 
 Scenario (c) Different unseen timbres for the target and non-target guitars
+
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
 | ag+ag |         |               |                    |                      |                     |
 | eg+eg | Text    | Text          | Text               |                      |                     |
 
 Scenario (d) Same unseen timbre for both the target and non-target guitars
+
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
 | ag+ag |         |               |                    |                      |                     |
