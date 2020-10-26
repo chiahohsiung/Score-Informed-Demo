@@ -20,20 +20,15 @@ Scenario (b) Target guitar unseen, non-target guitar seen
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
 | ag+ag |<audio src="result/demo/b/ag_ag_Spoke_in_the_Wheel_mix_1+D.wav" controls="" preload=""></audio>|<audio src="result/demo/b/ag_ag_Spoke_in_the_Wheel_d_gt_0.wav" controls="" preload=""></audio>|<audio src="result/demo/b/ag_ag_Spoke_in_the_Wheel_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/b/ag_ag_Spoke_in_the_Wheel_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/b/ag_ag_Spoke_in_the_Wheel_blind.wav" controls="" preload=""></audio>|
-| eg+eg |<audio src="result/demo/b/eg_eg_Death_after_Live_mix_1+D.wav" controls="" preload=""></audio>|<audio src="result/demo/b/eg_eg_Death_after_Live_d_gt_0.wav" controls="" preload=""></audio>|<audio 
-src="result/demo/b/eg_eg_Death_after_Live_soft.wav" controls="" preload=""></audio>|<audio 
-src="result/demo/b/eg_eg_Death_after_Live_binary.wav" controls="" preload=""></audio>|<audio 
-src="result/demo/b/eg_eg_Death_after_Live_blind.wav" controls="" preload=""></audio>|
+| eg+eg |<audio src="result/demo/b/eg_eg_Death_after_Live_mix_1+D.wav" controls="" preload=""></audio>|<audio src="result/demo/b/eg_eg_Death_after_Live_d_gt_0.wav" controls="" preload=""></audio>|<audio src="result/demo/b/eg_eg_Death_after_Live_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/b/eg_eg_Death_after_Live_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/b/eg_eg_Death_after_Live_blind.wav" controls="" preload=""></audio>|
 
 Scenario (c) Different unseen timbres for the target and non-target guitars
 
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
 | ag+ag |<audio src="result/demo/a/ag_ag_Wild_Horses_mix_0+D.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_gt_0.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_blind.wav" controls="" preload=""></audio>|
-| eg+eg |<audio src="result/demo/a/eg_eg_The_Zoo_mix_0+D.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_The_Zoo_gt_0.wav" controls="" preload=""></audio>|<audio 
-src="result/demo/a/eg_eg_The_Zoo_soft.wav" controls="" preload=""></audio>|<audio 
-src="result/demo/a/eg_eg_The_Zoo_binary.wav" controls="" preload=""></audio>|<audio 
-src="result/demo/a/eg_eg_The_Zoo_blind.wav" controls="" preload=""></audio>|
+| eg+eg |<audio src="result/demo/a/eg_eg_The_Zoo_mix_0+D.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_The_Zoo_gt_0.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_The_Zoo_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_The_Zoo_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_The_Zoo_blind.wav" controls="" preload=""></audio>|
+
 Scenario (d) Same unseen timbre for both the target and non-target guitars
 
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
