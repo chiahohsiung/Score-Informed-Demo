@@ -4,7 +4,7 @@ This repository contains the code, the data, and the demo page for the paper *"M
 
 
 # The Model
-![Score-Informed Model](/images/si-model.png)
+![Score-Informed Model](/images/model_and_spec.png)
 # Implementation
 
 
