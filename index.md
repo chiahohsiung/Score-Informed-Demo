@@ -8,7 +8,7 @@ Scenario (a) Target guitar seen, non-target guitar unseen.
 
 | Combination | Mixture | Target Guitar | SI-Open-unmix-Soft | SI-Open-unmix-Binary | SI-Open-unmix-Blind |
 | ----------- | ------- | ------------- | ------------------ | -------------------- | ------------------- |
-| ag+ag |<audio src="result/demo/a/ag_ag_Wild_Horses_mix_0+D.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_gt_0.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Wild_Horses_blind.wav" controls="" preload=""></audio>|
+| ag+ag |<audio src="result/demo/a/ag_ag_Ice_Dance_-_Edward_Scissorhands_mix_1+D.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Ice_Dance_-_Edward_Scissorhands_gt_1.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Ice_Dance_-_Edward_Scissorhands_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Ice_Dance_-_Edward_Scissorhands_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/a/ag_ag_Ice_Dance_-_Edward_Scissorhands_blind.wav" controls="" preload=""></audio>|
 | eg+eg |<audio src="result/demo/a/eg_eg_Quelques_Sourires_mix_1+D.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_Quelques_Sourires_gt_1.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_Quelques_Sourires_soft.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_Quelques_Sourires_binary.wav" controls="" preload=""></audio>|<audio src="result/demo/a/eg_eg_Quelques_Sourires_blind.wav" controls="" preload=""></audio>|
 
 
