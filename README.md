@@ -5,7 +5,7 @@ This repository contains the code, the data, and the demo page for the paper *"M
 
 ## The Model
 ![Score-Informed Model](/images/model_and_spec.png)
-# Implementation
+## Implementation
 
 ## Reference
 [1] *F.-R. St ̈oter, S. Uhlich, A. Liutkus, and Y. Mitsufuji, “Open-Unmix - Areference implementation for music source separation,”Journal of OpenSource Software, vol. 4, no. 41, p. 1667, 2019.*
