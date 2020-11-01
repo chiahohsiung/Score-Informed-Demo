@@ -13,10 +13,10 @@ To implement our score-informed version of Open-Unmix [1], please first clone th
 ## Results
 
 Comparison with score-informed CNN autoencoder [2] and score-informed U-Net [3] baselines
-<img src="/images/low_res.png" width="80%">
+<img src="/images/low_res.png" width="50%">
 
 Comparison with score-informed U-Net in a more modern setting 
-![modern](/images/modern.png)
+<img src="/images/modern.png" width="50%">
 
 Comparison with *blind* version of Open-unmix
 ![unseen](/images/unseen.png)
