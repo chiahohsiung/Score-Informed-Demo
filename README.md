@@ -13,7 +13,7 @@ To implement our score-informed version of Open-Unmix [1], please first clone th
 ## Results
 
 Comparison with score-informed CNN autoencoder [2] and score-informed U-Net [3] baselines
-![low-res](/images/low_res.png)
+<img src="/images/low_res.png" width="80%">
 
 Comparison with score-informed U-Net in a more modern setting 
 ![modern](/images/modern.png)
