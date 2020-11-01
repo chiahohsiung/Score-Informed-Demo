@@ -13,13 +13,13 @@ To implement our score-informed version of Open-Unmix [1], please first clone th
 ## Results
 
 Comparison with score-informed CNN autoencoder [2] and score-informed U-Net [3] baselines
-(/images/low_res.png)<img src="https://github.com/chiahohsiung/Score-Informed-SS-on-Guitars/blob/master/images/low_res.png" width="500">
+<img src="https://github.com/chiahohsiung/Score-Informed-SS-on-Guitars/blob/master/images/low_res.png" width="400">
 
 Comparison with score-informed U-Net in a more modern setting 
-<img src="https://github.com/chiahohsiung/Score-Informed-SS-on-Guitars/blob/master/images/modern.png" width="500">
+<img src="https://github.com/chiahohsiung/Score-Informed-SS-on-Guitars/blob/master/images/modern.png" width="400">
 
 Comparison with *blind* version of Open-unmix
-<img src="https://github.com/chiahohsiung/Score-Informed-SS-on-Guitars/blob/master/images/unseen.png" width="500">
+<img src="https://github.com/chiahohsiung/Score-Informed-SS-on-Guitars/blob/master/images/unseen.png" width="400">
 
 ## Reference
 [1] *F.-R. St ̈oter, S. Uhlich, A. Liutkus, and Y. Mitsufuji, “Open-Unmix - A reference implementation for music source separation,”Journal of OpenSource Software, vol. 4, no. 41, p. 1667, 2019.*
