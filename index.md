@@ -4,11 +4,62 @@ Separating the sounds of different instruments that compose a mixture has receiv
 ## Demo audio
 The demo contains 15-second clips of the outputs from our proposed score-informed Open-Unmix(**SI-Open-unmix**) and the original blind version of Open-Unmix (**Open-unmix-Blind**). We choose songs 
 
-  
-| Mixture | Target Guitar |
-| -------- | -------- |
-| <audio src="result/demo_v2/t1/ag_eg_Balkan_mix.wav" controls="" preload=""></audio>|<audio src="result/demo_v2/t1/ag_eg_Balkan_gt_0.wav" controls="" preload=""></audio> |
+### Song 1
+Mixture
+<audio src="result/demo_v2/t1/ag_eg_Balkan_mix.wav" controls="" preload=""></audio>
+Target Guitar
+<audio src="result/demo_v2/t1/ag_eg_Balkan_gt_0.wav" controls="" preload=""></audio>
 
+|       | SI-Open-Unmix | Blind-Open-Unmix |
+| ----- | --- | ------------- |
+| audio | <audio src="result/demo_v2/t1/ag_eg_Balkan_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t1/ag_eg_Balkan_blind.wav" controls="" preload=""></audio> |
+| SISDR | 10 | 11 |
+
+### Song 2
+Mixture
+<audio src="result/demo_v2/t2/ag_eg_Baixo_mix_D+E.wav" controls="" preload=""></audio>
+Target Guitar
+<audio src="result/demo_v2/t2/ag_eg_Baixo_d_gt_0.wav" controls="" preload=""></audio>
+
+|       | SI-Open-Unmix | Blind-Open-Unmix |
+| ----- | --- | ------------- |
+| audio | <audio src="result/demo_v2/t2/ag_eg_Baixo_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t2/ag_eg_Baixo_blind.wav" controls="" preload=""></audio> |
+| SISDR | 7.6 |-4.19 |
+
+### Song 3
+Mixture
+<audio src="result/demo_v2/t2/ag_ag_CITY_KIDS_mix_0+D.wav" controls="" preload=""></audio>
+Target Guitar
+<audio src="result/demo_v2/t2/ag_ag_CITY_KIDS_d_gt_1.wav" controls="" preload=""></audio>
+
+|       | SI-Open-Unmix | Blind-Open-Unmix |
+| ----- | --- | ------------- |
+| audio | <audio src="result/demo_v2/t2/ag_ag_CITY_KIDS_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t2/ag_ag_CITY_KIDS_blind.wav" controls="" preload=""></audio> |
+| SISDR | 10 | 11 |
+
+### Song 4
+Mixture
+<audio src="result/demo_v2/t2/ag_eg_Rundans_(2)_mix_D+E.wav" controls="" preload=""></audio>
+Target Guitar
+<audio src="result/demo_v2/t2/ag_eg_Rundans_(2)_d_gt_0.wav" controls="" preload=""></audio>
+
+|       | SI-Open-Unmix | Blind-Open-Unmix |
+| ----- | --- | ------------- |
+| audio | <audio src="result/demo_v2/t2/ag_eg_Rundans_(2)_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t2/ag_eg_Rundans_(2)_blind.wav" controls="" preload=""></audio> |
+| SISDR | 6.25 | -3.00 |
+
+### Song 5
+Mixture
+<audio src="result/demo_v2/t2/ag_eg_The_riddle_mix_D+E.wav" controls="" preload=""></audio>
+Target Guitar
+<audio src="result/demo_v2/t2/ag_eg_The_riddle_d_gt_0.wav" controls="" preload=""></audio>
+
+|       | SI-Open-Unmix | Blind-Open-Unmix |
+| ----- | --- | ------------- |
+| audio | <audio src="result/demo_v2/t2/ag_eg_The_riddle_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t2/ag_eg_The_riddle_blind.wav" controls="" preload=""></audio> |
+| SISDR | 10 | 11 |
+
+### Song 6
 Mixture
 <audio src="result/demo_v2/t1/ag_eg_Balkan_mix.wav" controls="" preload=""></audio>
 Target Guitar
