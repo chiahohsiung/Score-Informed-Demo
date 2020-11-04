@@ -4,19 +4,20 @@ Separating the sounds of different instruments that compose a mixture has receiv
 ## Demo audio
 The demo contains 15-second clips of the outputs from our proposed score-informed Open-Unmix(**SI-Open-unmix**) and the original blind version of Open-Unmix (**Open-unmix-Blind**). We choose songs 
 
-
+<center>
+  
 | Mixture | Target Guitar |
 | -------- | -------- |
-| <audio src="result/demo_v2/t1/ag_eg_Balkan_mix.wav" controls="" preload=""></audio>|| <audio src="result/demo_v2/t1/ag_eg_Balkan_gt_0.wav" controls="" preload=""></audio> |
+| <audio src="result/demo_v2/t1/ag_eg_Balkan_mix.wav" controls="" preload=""></audio>|<audio src="result/demo_v2/t1/ag_eg_Balkan_gt_0.wav" controls="" preload=""></audio> |
 
 
 |       | SI-Open-Unmix | Blind-Open-Unmix |
 | ----- | --- | ------------- |
 | audio | <audio src="result/demo_v2/t1/ag_eg_Balkan_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t1/ag_eg_Balkan_blind.wav" controls="" preload=""></audio> |
-| SISDR |   10  |     11     |
+| SISDR | 10 | 11 |
 
 
-
+</center>
 
 ### Contact 
 Chia-Ho Hsiung chiahohsiung@gmail.com or ch3472@columbia.edu
