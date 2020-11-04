@@ -13,7 +13,7 @@ Target Guitar
 |       | SI-Open-Unmix | Blind-Open-Unmix |
 | ----- | --- | ------------- |
 | audio | <audio src="result/demo_v2/t1/ag_eg_Balkan_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t1/ag_eg_Balkan_blind.wav" controls="" preload=""></audio> |
-| SISDR | 10 | 11 |
+| SISDR | 11.98 | 13.49 |
 
 ### Song 2
 Mixture
@@ -35,7 +35,7 @@ Target Guitar
 |       | SI-Open-Unmix | Blind-Open-Unmix |
 | ----- | --- | ------------- |
 | audio | <audio src="result/demo_v2/t2/ag_ag_CITY_KIDS_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t2/ag_ag_CITY_KIDS_blind.wav" controls="" preload=""></audio> |
-| SISDR | 10 | 11 |
+| SISDR | 8.14 | -13.12 |
 
 ### Song 4
 Mixture
@@ -57,18 +57,29 @@ Target Guitar
 |       | SI-Open-Unmix | Blind-Open-Unmix |
 | ----- | --- | ------------- |
 | audio | <audio src="result/demo_v2/t2/ag_eg_The_riddle_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t2/ag_eg_The_riddle_blind.wav" controls="" preload=""></audio> |
-| SISDR | 10 | 11 |
+| SISDR | 10.31 | 6.93 |
 
 ### Song 6
 Mixture
-<audio src="result/demo_v2/t1/ag_eg_Balkan_mix.wav" controls="" preload=""></audio>
+<audio src="result/demo_v2/t3/ag_ag_Every_little_thing_mix_D+D.wav" controls="" preload=""></audio>
 Target Guitar
-<audio src="result/demo_v2/t1/ag_eg_Balkan_gt_0.wav" controls="" preload=""></audio>
+<audio src="result/demo_v2/t3/ag_ag_Every_little_thing_d_gt_0.wav" controls="" preload=""></audio>
 
 |       | SI-Open-Unmix | Blind-Open-Unmix |
 | ----- | --- | ------------- |
-| audio | <audio src="result/demo_v2/t1/ag_eg_Balkan_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t1/ag_eg_Balkan_blind.wav" controls="" preload=""></audio> |
-| SISDR | 10 | 11 |
+| audio | <audio src="result/demo_v2/t3/ag_ag_Every_little_thing_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t3/ag_ag_Every_little_thing_blind.wav" controls="" preload=""></audio> |
+| SISDR | 0.59 | -4.22 |
+
+### Song 7
+Mixture
+<audio src="result/demo_v2/t3/eg_eg_Heart_of_a_Dragon_mix_D+D.wav" controls="" preload=""></audio>
+Target Guitar
+<audio src="result/demo_v2/t3/eg_eg_Heart_of_a_Dragon_d_gt_1.wav" controls="" preload=""></audio>
+
+|       | SI-Open-Unmix | Blind-Open-Unmix |
+| ----- | --- | ------------- |
+| audio | <audio src="result/demo_v2/t3/eg_eg_Heart_of_a_Dragon_soft.wav" controls="" preload=""></audio> |<audio src="result/demo_v2/t3/eg_eg_Heart_of_a_Dragon_blind.wav" controls="" preload=""></audio> |
+| SISDR | -0.09 | -13.54 |
 
 
 ### Contact 
